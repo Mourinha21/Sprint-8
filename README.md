@@ -4,36 +4,36 @@ TripleTen's project for the eight sprint, in which I analyzed marketing metrics 
 
 <h1>Marketing Metrics Analysis</h1>
 
-<h2>I just finished my TripleTen studies and received a job opportunity as an intern in the analytics department at Y.Afisha. My first task is to help the company optimize their marketing expenses. 📊</h2>
+<h2>After completing my studies at TripleTen, I received an internship opportunity in the Analytics Department at Y.Afisha. My first assignment was to analyze the company's marketing performance and identify opportunities to optimize marketing expenditures.</h2>
 
 <img src='images\total-costs-month.png' width='700'>
 
-<p>Most of the expenses were made early and late in the year, most of the holidays around theses dates, are the most important holidays, such as Christmas, Thanksgiving, Valentine's Day and New Year's Day are a few examples.</p>
+<p>The analysis shows that marketing expenses were concentrated primarily at the beginning and the end of the year. This pattern is likely associated with major holidays and seasonal events, such as Valentine's Day, Thanksgiving, Christmas, and New Year's Day, which are traditionally periods of increased consumer activity.</p>
 
 <img src='images\number-of-sales.png' width="700">
 
-<p>We observe that the growth in sales happens in the second semester of the year, more accurately in september, and it peaks in december, after all, Christmas is the biggest holiday financially speaking. After the year ends, we can see a slight decrease in sales and a sudden drop in sales in june.</p>
+<p>Sales performance follows a similar seasonal trend. Revenue growth becomes more pronounced during the second half of the year, beginning in September and reaching its peak in December. This result is expected, as Christmas represents one of the most significant retail periods of the year. Following December, sales decline moderately, with a particularly noticeable drop occurring in June.</p>
 
 <img src='images\roc.png' width='700'>
 
-<p>We would expect to have the biggest return in costs to be around the end of the year, since that's where most of the sales are, but from the 3 last months of the year, only december achieved numbers above the average.</p>
+<p>Given the concentration of sales at the end of the year, one might expect the highest returns on marketing investments to occur during this period. However, among the last three months of the year, only December achieved results above the overall average.</p>
 
-<p>May ranked first, since its costs were below average and its sales was satisfactory. April had a similar result, having a relatively good return in sales. Whereas june and july had terrible return despite being next to may and april, having both cost and sales to be lowest in the rankings. My guess is that the FIFA World Cup in Russia affected sales.</p>
+<p>May delivered the strongest performance in terms of return on costs. Marketing expenditures during this month were below average, while sales remained at satisfactory levels. April produced similar results, generating a favorable return despite relatively modest spending. In contrast, June and July exhibited poor performance, ranking among the lowest months for both sales and marketing efficiency. One possible explanation is the impact of the FIFA World Cup, which took place in Russia and may have influenced consumer behavior during that period.</p>
 
 <img src='images\cac.png' width='700'>
 
-<p>In addition to the ROC, again we see the month of may performing phenomally well, for each 7.5 dollar spent, we get a new user to buy on our store. April did not perform well as may, even though they had almost identical costs.</p>
+<p>The retention cohort analysis reveals that customers acquired between December and May demonstrated the lowest retention rates. Conversely, users acquired between June and November showed a greater tendency to return and make additional purchases.</p>
 
 <img src='images\retention_cohort.png' width='700'>
 
-<p>From this retention cohort, we can perceive that the retention for the month of december to through may are the lowest from the cohort, from june to november users tend to come back to buy from our store.</p>
+<p>The Lifetime Value (LTV) analysis indicates that users whose first purchase occurred in June, September, and December generated the highest long-term value. September was particularly noteworthy, as customers acquired during this month achieved a higher LTV than those acquired in June, despite having three fewer months of observation. Most other cohorts produced substantially lower LTV values.</p>
 
 <img src='images\ltv-cohort.png' width='700'>
 
-<p></p>
-
 <img src='images\romi-cohort.png' width='700'>
 
-<p></p>
+<p>Overall, the Return on Marketing Investment (ROMI) remained relatively stable throughout the year, showing limited growth across most cohorts. December was the primary exception, standing out as the strongest-performing month.</p>
+
+<p>Based on these findings, my recommendation is to concentrate marketing investments beginning in September and intensify campaigns through December. This period consistently generates the highest sales volumes and demonstrates the strongest potential for maximizing returns on marketing expenditures.</p>
 
 
